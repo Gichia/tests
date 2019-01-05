@@ -1,8 +1,6 @@
-language: html, css, js
-html:
-  -5
-css:
-  -3
+language: php
+php:
+  -5.5
 
 before_script:
   git clone https://github.com/Gichia/tests
